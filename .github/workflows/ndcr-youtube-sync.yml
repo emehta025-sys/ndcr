@@ -1,0 +1,48 @@
+name: NDCR YouTube catalogue sync
+
+on:
+  schedule:
+    # 19:00 IST Thursday, after the expected 18:00 IST publication.
+    - cron: "30 13 * * 4"
+    # 11:30 IST Friday fallback for a delayed upload.
+    - cron: "0 6 * * 5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Sync the public YouTube catalogue
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: node scripts/sync-youtube-catalogue.mjs --apply
+
+      - name: Commit catalogue changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/catalogue/ndcr-releases.json data/catalogue/ndcr-artists.json data/raw/youtube-catalogue.json data/raw/youtube-sync-report.json docs/youtube-catalogue-pilot.md
+          if git diff --cached --quiet; then
+            echo "No catalogue changes to commit."
+          else
+            git commit -m "chore: sync NDCR YouTube catalogue"
+            git push
+          fi

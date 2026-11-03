@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "artist-aayna",
+    "slug": "aayna",
+    "name": "Aayna",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/aayna.music"
+      },
+      {
+        "label": "SoundCloud",
+        "url": "https://soundcloud.com/user-519313833"
+      }
+    ],
+    "releaseSlugs": [
+      "009"
+    ]
+  },
+  {
+    "id": "artist-adidamix",
+    "slug": "adidamix",
+    "name": "ADIDAMIX",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/adidamix_"
+      }
+    ],
+    "releaseSlugs": [
+      "069"
+    ]
+  },
+  {
+    "id": "artist-aesh",
+    "slug": "aesh",
+    "name": "AESH",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/aeshhhhmusic"
+      },
+      {
+        "label": "SoundCloud",
+        "url": "https://soundcloud.com/aeshhhhmusic"
+      }
+    ],
+    "releaseSlugs": [
+      "054"
+    ]
+  },
+  {
+    "id": "artist-alienata",
+    "slug": "alienata",
+    "name": "Alienata",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/e_alienata"
+      }
+    ],
+    "releaseSlugs": [
+      "058"
+    ]
+  },
+  {
+    "id": "artist-anderson1000",
+    "slug": "anderson1000",
+    "name": "Anderson1000",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/andersonn_1000/"
+      }
+    ],
+    "releaseSlugs": [
+      "068"
+    ]
+  },
+  {
+    "id": "artist-anisha",
+    "slug": "anisha",
+    "name": "Anisha",
+    "description": null,
+    "externalLinks": [],
+    "releaseSlugs": [
+      "040"
+    ]
+  },
+  {
+    "id": "artist-antariksh-daddy",
+    "slug": "antariksh-daddy",
+    "name": "Antariksh Daddy",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/antarikshdaddy"
+      }
+    ],
+    "releaseSlugs": [
+      "032"
+    ]
+  },
+  {
+    "id": "artist-anushka",
+    "slug": "anushka",
+    "name": "Anushka",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/anushkainmusic"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/anushkam"
+      }
+    ],
+    "releaseSlugs": [
+      "037"
+    ]
+  },
+  {
+    "id": "artist-avantika",
+    "slug": "avantika",
+    "name": "AVANTIKA",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/avantikabakshi"
+      }
+    ],
+    "releaseSlugs": [
+      "077"
+    ]
+  },
+  {
+    "id": "artist-ayushman",
+    "slug": "ayushman",
+    "name": "Ayushman",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/ayushmandubeyy"
+      }
+    ],
+    "releaseSlugs": [
+      "072"
+    ]
+  },
+  {
+    "id": "artist-baalti",
+    "slug": "baalti",
+    "name": "Baalti",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/baalti.mp3"
+      }
+    ],
+    "releaseSlugs": [
+      "046"
+    ]
+  },
+  {
+    "id": "artist-bb-nabi",
+    "slug": "bb-nabi",
+    "name": "BB NABI",
+    "description": null,
+    "externalLinks": [],
+    "releaseSlugs": [
+      "063"
+    ]
+  },
+  {
+    "id": "artist-big-m",
+    "slug": "big-m",
+    "name": "BIG M",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/big_m.prproj"
+      }
+    ],
+    "releaseSlugs": [
+      "047",
+      "066"
+    ]
+  },
+  {
+    "id": "artist-bindas",
+    "slug": "bindas",
+    "name": "BINDAS",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/bindas.wav"
+      }
+    ],
+    "releaseSlugs": [
+      "067"
+    ]
+  },
+  {
+    "id": "artist-blu-attic",
+    "slug": "blu-attic",
+    "name": "Blu Attic",
+    "description": null,
+    "externalLinks": [],
+    "releaseSlugs": [
+      "048"
+    ]
+  },
+  {
+    "id": "artist-bombie",
+    "slug": "bombie",
+    "name": "Bombie",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/akanshathisside"
+      },
+      {
+        "label": "SoundCloud",
+        "url": "https://soundcloud.com/bombieak"
+      }
+    ],
+    "releaseSlugs": [
+      "003"
+    ]
+  },
+  {
+    "id": "artist-citizen-kale",
+    "slug": "citizen-kale",
+    "name": "Citizen Kale",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/planetkalemusic"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/citizen.kale"
+      },
+      {
+        "label": "SoundCloud",
+        "url": "https://soundcloud.com/citizen-kale"
+      }
+    ],
+    "releaseSlugs": [
+      "052",
+      "073"
+    ]
+  },
+  {
+    "id": "artist-cocosova",
+    "slug": "cocosova",
+    "name": "Cocosova",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/cocosova"
+      }
+    ],
+    "releaseSlugs": [
+      "025"
+    ]
+  },
+  {
+    "id": "artist-da-nang-community-radio",
+    "slug": "da-nang-community-radio",
+    "name": "DA NANG COMMUNITY RADIO",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/danangcommunityradio"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@UCD5FT28shfTGuiUIuPw3OXw"
+      }
+    ],
+    "releaseSlugs": [
+      "015"
+    ]
+  },
+  {
+    "id": "artist-daku",
+    "slug": "daku",
+    "name": "DAKU",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/yngdaku/"
+      }
+    ],
+    "releaseSlugs": [
+      "075"
+    ]
+  },
+  {
+    "id": "artist-dameer",
+    "slug": "dameer",
+    "name": "Dameer",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/dameer.dk"
+      },
+      {
+        "label": "SoundCloud",
+        "url": "https://soundcloud.com/dameerofficial"
+      }
+    ],
+    "releaseSlugs": [
+      "006"
+    ]
+  },
+  {
+    "id": "artist-despierte",
+    "slug": "despierte",
+    "name": "Despierte",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/despiertemusic"
+      }
+    ],
+    "releaseSlugs": [
+      "024"
+    ]
+  },
+  {
+    "id": "artist-didar",
+    "slug": "didar",
+    "name": "Didar",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/heyydidar"
+      }
+    ],
+    "releaseSlugs": [
+      "083"
+    ]
+  },
+  {
+    "id": "artist-discokid",
+    "slug": "discokid",
+    "name": "Discokid",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/iamdiscokid"
+      }
+    ],
+    "releaseSlugs": [
+      "079"
+    ]
+  },
+  {
+    "id": "artist-dj-mocity",
+    "slug": "dj-mocity",
+    "name": "DJ MOCITY",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/ibn.ishtar"
+      },
+      {
+        "label": "SoundCloud",
+        "url": "https://soundcloud.com/djmocity"
+      }
+    ],
+    "releaseSlugs": [
+      "007"
+    ]
+  },
+  {
+    "id": "artist-ebitda",
+    "slug": "ebitda",
+    "name": "EBITDA",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/ebitda.dj"
+      }
+    ],
+    "releaseSlugs": [
+      "043"
+    ]
+  },
+  {
+    "id": "artist-eshie",
+    "slug": "eshie",
+    "name": "Eshie",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/eshie.d"
+      }
+    ],
+    "releaseSlugs": [
+      "038"
+    ]
+  },
+  {
+    "id": "artist-film",
+    "slug": "film",
+    "name": "FILM",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/film011"
+      },
+      {
+        "label": "SoundCloud",
+        "url": "https://soundcloud.com/film011"
+      }
+    ],
+    "releaseSlugs": [
+      "015"
+    ]
+  },
+  {
+    "id": "artist-fringe-mechanics",
+    "slug": "fringe-mechanics",
+    "name": "Fringe Mechanics",
+    "description": null,
+    "externalLinks": [],
+    "releaseSlugs": [
+      "081"
+    ]
+  },
+  {
+    "id": "artist-full-motion-disaster",
+    "slug": "full-motion-disaster",
+    "name": "Full Motion Disaster",
+    "description": null,
+    "externalLinks": [],
+    "releaseSlugs": [
+      "076"
+    ]
+  },
+  {
+    "id": "artist-fushi",
+    "slug": "fushi",
+    "name": "Fushi",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/fushiup"
+      }
+    ],
+    "releaseSlugs": [
+      "064"
+    ]
+  },
+  {
+    "id": "artist-gauriwho",
+    "slug": "gauriwho",
+    "name": "GAURIWHO",
+    "description": null,
+    "externalLinks": [],
+    "releaseSlugs": [
+      "020"
+    ]
+  },
+  {
+    "id": "artist-glm",
+    "slug": "glm",
+    "name": "GLM",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/glm_uk_"
+      }
+    ],
+    "releaseSlugs": [
+      "070"
+    ]
+  },
+  {
+    "id": "artist-hamza-rahimtula",
+    "slug": "hamza-rahimtula",
+    "name": "Hamza Rahimtula",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/hamzarahimtula/"
+      }
+    ],
+    "releaseSlugs": [
+      "018"
+    ]
+  },
+  {
+    "id": "artist-housecats",
+    "slug": "housecats",
+    "name": "HouseCats",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/housecats_live"
+      }
+    ],
+    "releaseSlugs": [
+      "042"
+    ]
+  },
+  {
+    "id": "artist-idah",
+    "slug": "idah",
+    "name": "IDAH",
+    "description": null,
+    "externalLinks": [],
+    "releaseSlugs": [
+      "049"
+    ]
+  },
+  {
+    "id": "artist-jaag",
+    "slug": "jaag",
+    "name": "Jaag",
+    "description": null,
+    "externalLinks": [],
+    "releaseSlugs": [
+      "078"
+    ]
+  },
+  {
+    "id": "artist-jordon",
+    "slug": "jordon",
+    "name": "JORDON",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/jordankjoseph20/"
+      }
+    ],
+    "releaseSlugs": [
+      "016"
+    ]
+  },
+  {
+    "id": "artist-kaamin",
+    "slug": "kaamin",
+    "name": "Kaamin",
+    "description": null,
+    "externalLinks": [],
+    "releaseSlugs": [
+      "045"
+    ]
+  },
+  {
+    "id": "artist-kairavi",
+    "slug": "kairavi",
+    "name": "Kairavi",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/kikiwaap"
+      }
+    ],
+    "releaseSlugs": [
+      "035"
+    ]
+  },
+  {
+    "id": "artist-kalbaisakhi",
+    "slug": "kalbaisakhi",
+    "name": "Kalbaisakhi",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/kalbaisakhi/"
+      },
+      {
+        "label": "SoundCloud",
+        "url": "https://soundcloud.com/kalbaisakhimusic"
+      }
+    ],
+    "releaseSlugs": [
+      "001"
+    ]
+  },
+  {
+    "id": "artist-kaleekarma",
+    "slug": "kaleekarma",
+    "name": "Kaleekarma",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/kaleekarma"
+      }
+    ],
+    "releaseSlugs": [
+      "051"
+    ]
+  },
+  {
+    "id": "artist-kampai",
+    "slug": "kampai",
+    "name": "KAMPAI",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/kampaimusic"
+      }
+    ],
+    "releaseSlugs": [
+      "071"
+    ]
+  },
+  {
+    "id": "artist-kenzani",
+    "slug": "kenzani",
+    "name": "Kenzani",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/kenzaniofficial"
+      }
+    ],
+    "releaseSlugs": [
+      "026"
+    ]
+  },
+  {
+    "id": "artist-khxdeej",
+    "slug": "khxdeej",
+    "name": "KHXDEEJ",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/khxdeej"
+      }
+    ],
+    "releaseSlugs": [
+      "019"
+    ]
+  },
+  {
+    "id": "artist-kibo",
+    "slug": "kibo",
+    "name": "KIBO",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/kibo.wxv/?hl=en"
+      }
+    ],
+    "releaseSlugs": [
+      "014"
+    ]
+  },
+  {
+    "id": "artist-kizzi",
+    "slug": "kizzi",
+    "name": "Kizzi",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/djkizzi"
+      }
+    ],
+    "releaseSlugs": [
+      "044"
+    ]
+  },
+  {
+    "id": "artist-maggie-tra",
+    "slug": "maggie-tra",
+    "name": "Maggie Tra",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/mtra"
+      }
+    ],
+    "releaseSlugs": [
+      "053"
+    ]
+  },
+  {
+    "id": "artist-mc-soopy",
+    "slug": "mc-soopy",
+    "name": "MC Soopy",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/mc_soopy"
+      }
+    ],
+    "releaseSlugs": [
+      "050"
+    ]
+  },
+  {
+    "id": "artist-mizuyo",
+    "slug": "mizuyo",
+    "name": "Mizuyo",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/djmizuyo"
+      }
+    ],
+    "releaseSlugs": [
+      "021"
+    ]
+  },
+  {
+    "id": "artist-mowgli",
+    "slug": "mowgli",
+    "name": "Mowgli",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/mowglithedj"
+      }
+    ],
+    "releaseSlugs": [
+      "059"
+    ]
+  },
+  {
+    "id": "artist-mr-disco-kid",
+    "slug": "mr-disco-kid",
+    "name": "Mr. Disco Kid",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/mr_disco_kid/"
+      }
+    ],
+    "releaseSlugs": [
+      "056"
+    ]
+  },
+  {
+    "id": "artist-musicklunatic",
+    "slug": "musicklunatic",
+    "name": "MusickLunatic",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/musicklunatic"
+      }
+    ],
+    "releaseSlugs": [
+      "023"
+    ]
+  },
+  {
+    "id": "artist-nac-n-cheeze",
+    "slug": "nac-n-cheeze",
+    "name": "Nac N Cheeze",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/nacncheeze"
+      }
+    ],
+    "releaseSlugs": [
+      "082"
+    ]
+  },
+  {
+    "id": "artist-nash",
+    "slug": "nash",
+    "name": "NASH",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/nashselector_/"
+      }
+    ],
+    "releaseSlugs": [
+      "055"
+    ]
+  },
+  {
+    "id": "artist-nate08",
+    "slug": "nate08",
+    "name": "Nate08",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/nate08music"
+      },
+      {
+        "label": "SoundCloud",
+        "url": "https://soundcloud.com/nate08music"
+      }
+    ],
+    "releaseSlugs": [
+      "008"
+    ]
+  },
+  {
+    "id": "artist-nida",
+    "slug": "nida",
+    "name": "Nida",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/nidadadj/"
+      },
+      {
+        "label": "SoundCloud",
+        "url": "https://soundcloud.com/nida-j-merchant"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/nidadadj"
+      }
+    ],
+    "releaseSlugs": [
+      "012",
+      "052"
+    ]
+  },
+  {
+    "id": "artist-norbu",
+    "slug": "norbu",
+    "name": "Norbu:",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/norbu.noises/"
+      }
+    ],
+    "releaseSlugs": [
+      "013"
+    ]
+  },
+  {
+    "id": "artist-odd",
+    "slug": "odd",
+    "name": "Odd",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/oddmusica"
+      }
+    ],
+    "releaseSlugs": [
+      "029"
+    ]
+  },
+  {
+    "id": "artist-omdg",
+    "slug": "omdg",
+    "name": "OMDG",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/omdg_bd"
+      }
+    ],
+    "releaseSlugs": [
+      "033"
+    ]
+  },
+  {
+    "id": "artist-peach-blok",
+    "slug": "peach-blok",
+    "name": "Peach Blok",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/peachblok"
+      }
+    ],
+    "releaseSlugs": [
+      "036"
+    ]
+  },
+  {
+    "id": "artist-planet-kale",
+    "slug": "planet-kale",
+    "name": "Planet Kale",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/citizen.kale"
+      }
+    ],
+    "releaseSlugs": [
+      "052"
+    ]
+  },
+  {
+    "id": "artist-prav",
+    "slug": "prav",
+    "name": "PRAV:",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/prav.wavy/"
+      },
+      {
+        "label": "SoundCloud",
+        "url": "https://soundcloud.com/pravwavy"
+      }
+    ],
+    "releaseSlugs": [
+      "005"
+    ]
+  },
+  {
+    "id": "artist-prog-rescue",
+    "slug": "prog-rescue",
+    "name": "Prog Rescue",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/prog.rescue"
+      }
+    ],
+    "releaseSlugs": [
+      "060"
+    ]
+  },
+  {
+    "id": "artist-q-radio",
+    "slug": "q-radio",
+    "name": "Q Radio",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/qradio.wav"
+      }
+    ],
+    "releaseSlugs": [
+      "066"
+    ]
+  },
+  {
+    "id": "artist-radiostar",
+    "slug": "radiostar",
+    "name": "Radiostar",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/radiostar_ix?stkn=aTd2MWVtcTd6NHRi"
+      }
+    ],
+    "releaseSlugs": [
+      "080"
+    ]
+  },
+  {
+    "id": "artist-rafiki",
+    "slug": "rafiki",
+    "name": "Rafiki",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/rafikisounds/"
+      },
+      {
+        "label": "SoundCloud",
+        "url": "https://soundcloud.com/rafikisoundsindia"
+      }
+    ],
+    "releaseSlugs": [
+      "010"
+    ]
+  },
+  {
+    "id": "artist-rattyatty",
+    "slug": "rattyatty",
+    "name": "RattyAtty",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/rattyatty"
+      }
+    ],
+    "releaseSlugs": [
+      "031"
+    ]
+  },
+  {
+    "id": "artist-ritz",
+    "slug": "ritz",
+    "name": "Ritz",
+    "description": null,
+    "externalLinks": [],
+    "releaseSlugs": [
+      "004"
+    ]
+  },
+  {
+    "id": "artist-sgamo",
+    "slug": "sgamo",
+    "name": "Sgamo",
+    "description": null,
+    "externalLinks": [],
+    "releaseSlugs": [
+      "039"
+    ]
+  },
+  {
+    "id": "artist-shasha",
+    "slug": "shasha",
+    "name": "Shasha",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/shasha.lively/"
+      }
+    ],
+    "releaseSlugs": [
+      "002"
+    ]
+  },
+  {
+    "id": "artist-sheral",
+    "slug": "sheral",
+    "name": "Sheral",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/sheralb_"
+      },
+      {
+        "label": "SoundCloud",
+        "url": "https://soundcloud.com/sheralb"
+      }
+    ],
+    "releaseSlugs": [
+      "003"
+    ]
+  },
+  {
+    "id": "artist-sickflip",
+    "slug": "sickflip",
+    "name": "SICKFLIP",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/sickflipofficial"
+      }
+    ],
+    "releaseSlugs": [
+      "061"
+    ]
+  },
+  {
+    "id": "artist-sid-praja",
+    "slug": "sid-praja",
+    "name": "Sid Praja",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/sidpraja"
+      }
+    ],
+    "releaseSlugs": [
+      "028"
+    ]
+  },
+  {
+    "id": "artist-sourog",
+    "slug": "sourog",
+    "name": "SourOG",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/xsourogx"
+      }
+    ],
+    "releaseSlugs": [
+      "065"
+    ]
+  },
+  {
+    "id": "artist-su-real",
+    "slug": "su-real",
+    "name": "Su Real",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/realsureal"
+      }
+    ],
+    "releaseSlugs": [
+      "030"
+    ]
+  },
+  {
+    "id": "artist-sublime-sound-live",
+    "slug": "sublime-sound-live",
+    "name": "Sublime Sound Live",
+    "description": null,
+    "externalLinks": [],
+    "releaseSlugs": [
+      "057"
+    ]
+  },
+  {
+    "id": "artist-tech-panda",
+    "slug": "tech-panda",
+    "name": "Tech Panda",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/tech_panda"
+      }
+    ],
+    "releaseSlugs": [
+      "026"
+    ]
+  },
+  {
+    "id": "artist-the-untitled-one",
+    "slug": "the-untitled-one",
+    "name": "The Untitled One",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/theuntitledoneofficial"
+      }
+    ],
+    "releaseSlugs": [
+      "070"
+    ]
+  },
+  {
+    "id": "artist-tiffany-quinn",
+    "slug": "tiffany-quinn",
+    "name": "Tiffany Quinn",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/tiffanyquinn_music"
+      }
+    ],
+    "releaseSlugs": [
+      "027"
+    ]
+  },
+  {
+    "id": "artist-tnz",
+    "slug": "tnz",
+    "name": "TNZ",
+    "description": null,
+    "externalLinks": [],
+    "releaseSlugs": [
+      "062"
+    ]
+  },
+  {
+    "id": "artist-ukato",
+    "slug": "ukato",
+    "name": "UKato",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/ukato.music/"
+      }
+    ],
+    "releaseSlugs": [
+      "013"
+    ]
+  },
+  {
+    "id": "artist-unnayanaa",
+    "slug": "unnayanaa",
+    "name": "Unnayanaa",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/unnayanaa"
+      }
+    ],
+    "releaseSlugs": [
+      "034"
+    ]
+  },
+  {
+    "id": "artist-vani",
+    "slug": "vani",
+    "name": "VANI",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/vanidewan/?hl=en"
+      },
+      {
+        "label": "SoundCloud",
+        "url": "https://soundcloud.com/vani-dewan"
+      }
+    ],
+    "releaseSlugs": [
+      "011"
+    ]
+  },
+  {
+    "id": "artist-vansh",
+    "slug": "vansh",
+    "name": "Vansh",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/vanshpanjabi"
+      }
+    ],
+    "releaseSlugs": [
+      "066"
+    ]
+  },
+  {
+    "id": "artist-viir",
+    "slug": "viir",
+    "name": "VIIR",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/viir.music"
+      }
+    ],
+    "releaseSlugs": [
+      "074"
+    ]
+  },
+  {
+    "id": "artist-von-riu",
+    "slug": "von-riu",
+    "name": "Von Riu",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/von_riu/"
+      }
+    ],
+    "releaseSlugs": [
+      "068"
+    ]
+  },
+  {
+    "id": "artist-vridian",
+    "slug": "vridian",
+    "name": "Vridian",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/vridianmusic"
+      }
+    ],
+    "releaseSlugs": [
+      "022"
+    ]
+  },
+  {
+    "id": "artist-works-of-intent",
+    "slug": "works-of-intent",
+    "name": "Works Of Intent",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/worksofintent"
+      }
+    ],
+    "releaseSlugs": [
+      "041"
+    ]
+  },
+  {
+    "id": "artist-zokhuma",
+    "slug": "zokhuma",
+    "name": "Zokhuma",
+    "description": null,
+    "externalLinks": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/zokhuma/"
+      }
+    ],
+    "releaseSlugs": [
+      "017"
+    ]
+  }
+]

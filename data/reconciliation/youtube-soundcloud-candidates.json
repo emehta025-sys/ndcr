@@ -1,0 +1,840 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-26T14:46:50.703Z",
+    "method": "number-first candidate matching; no automatic acceptance",
+    "soundcloudExtractionStatus": "not_run_credentials_missing",
+    "recordsCompared": 83
+  },
+  "records": [
+    {
+      "releaseNumber": "001",
+      "slug": "001",
+      "youtubeUrl": "https://www.youtube.com/watch?v=cbCS6fNGKoM",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "002",
+      "slug": "002",
+      "youtubeUrl": "https://www.youtube.com/watch?v=nNVBFZtx6E0",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "003",
+      "slug": "003",
+      "youtubeUrl": "https://www.youtube.com/watch?v=otY-903rLmE",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "004",
+      "slug": "004",
+      "youtubeUrl": "https://www.youtube.com/watch?v=C-WCGvGvDto",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "005",
+      "slug": "005",
+      "youtubeUrl": "https://www.youtube.com/watch?v=LBjZDpErV84",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "006",
+      "slug": "006",
+      "youtubeUrl": "https://www.youtube.com/watch?v=nbsOOziPFYI",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "007",
+      "slug": "007",
+      "youtubeUrl": "https://www.youtube.com/watch?v=t-nkNKKOZXs",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "008",
+      "slug": "008",
+      "youtubeUrl": "https://www.youtube.com/watch?v=sRKI9I1vNLg",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "009",
+      "slug": "009",
+      "youtubeUrl": "https://www.youtube.com/watch?v=eyS5yFogzFY",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "010",
+      "slug": "010",
+      "youtubeUrl": "https://www.youtube.com/watch?v=P7EjmDotJwM",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "011",
+      "slug": "011",
+      "youtubeUrl": "https://www.youtube.com/watch?v=OMyAz1oDWKc",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "012",
+      "slug": "012",
+      "youtubeUrl": "https://www.youtube.com/watch?v=XXeNThlbJAo",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "013",
+      "slug": "013",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Zn5n7KHQHVQ",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "014",
+      "slug": "014",
+      "youtubeUrl": "https://www.youtube.com/watch?v=QCQeuVQu2OQ",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "015",
+      "slug": "015",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ZnEu6tOVRIQ",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "016",
+      "slug": "016",
+      "youtubeUrl": "https://www.youtube.com/watch?v=-fqG7MUhCso",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "017",
+      "slug": "017",
+      "youtubeUrl": "https://www.youtube.com/watch?v=a72bjHNVCiA",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "018",
+      "slug": "018",
+      "youtubeUrl": "https://www.youtube.com/watch?v=-0qcL1aan1I",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "019",
+      "slug": "019",
+      "youtubeUrl": "https://www.youtube.com/watch?v=WtfsKLLGIKM",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "020",
+      "slug": "020",
+      "youtubeUrl": "https://www.youtube.com/watch?v=5kF17gl7of0",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "021",
+      "slug": "021",
+      "youtubeUrl": "https://www.youtube.com/watch?v=uW8CZszQHhg",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "022",
+      "slug": "022",
+      "youtubeUrl": "https://www.youtube.com/watch?v=tKSzxcHq3uI",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "023",
+      "slug": "023",
+      "youtubeUrl": "https://www.youtube.com/watch?v=FmzLJys3XXg",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "024",
+      "slug": "024",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Rqg0Pom8y_o",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "025",
+      "slug": "025",
+      "youtubeUrl": "https://www.youtube.com/watch?v=IPuyu3DNO2w",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "026",
+      "slug": "026",
+      "youtubeUrl": "https://www.youtube.com/watch?v=2F-6WSn7PH0",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "027",
+      "slug": "027",
+      "youtubeUrl": "https://www.youtube.com/watch?v=zlBtE4OkKxo",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "028",
+      "slug": "028",
+      "youtubeUrl": "https://www.youtube.com/watch?v=83DfkSxYPLY",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "029",
+      "slug": "029",
+      "youtubeUrl": "https://www.youtube.com/watch?v=8w3SPsPJ_gk",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "030",
+      "slug": "030",
+      "youtubeUrl": "https://www.youtube.com/watch?v=AqI_CboznWk",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "031",
+      "slug": "031",
+      "youtubeUrl": "https://www.youtube.com/watch?v=FEYRCSG4NKU",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "032",
+      "slug": "032",
+      "youtubeUrl": "https://www.youtube.com/watch?v=zxWFrSURuf0",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "033",
+      "slug": "033",
+      "youtubeUrl": "https://www.youtube.com/watch?v=9YJPYw3xE1M",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "034",
+      "slug": "034",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vvtqvw165OI",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "035",
+      "slug": "035",
+      "youtubeUrl": "https://www.youtube.com/watch?v=jl6uxZ7wh4A",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "036",
+      "slug": "036",
+      "youtubeUrl": "https://www.youtube.com/watch?v=JgVAUUe0vgY",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "037",
+      "slug": "037",
+      "youtubeUrl": "https://www.youtube.com/watch?v=t8doKAf1LYA",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "038",
+      "slug": "038",
+      "youtubeUrl": "https://www.youtube.com/watch?v=1FHyDQwrauk",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "039",
+      "slug": "039",
+      "youtubeUrl": "https://www.youtube.com/watch?v=XnocPC7ra8A",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "040",
+      "slug": "040",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Edh4A1gjxYI",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "041",
+      "slug": "041",
+      "youtubeUrl": "https://www.youtube.com/watch?v=mrxoEs1RcMs",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "042",
+      "slug": "042",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pkyuG3j9jHY",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "043",
+      "slug": "043",
+      "youtubeUrl": "https://www.youtube.com/watch?v=RkdwmEWjVfw",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "044",
+      "slug": "044",
+      "youtubeUrl": "https://www.youtube.com/watch?v=x0Ar4OGRPas",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "045",
+      "slug": "045",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Kd6NdexJKsg",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "046",
+      "slug": "046",
+      "youtubeUrl": "https://www.youtube.com/watch?v=eVvY7djtPI4",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "047",
+      "slug": "047",
+      "youtubeUrl": "https://www.youtube.com/watch?v=J9XpjqntraE",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "048",
+      "slug": "048",
+      "youtubeUrl": "https://www.youtube.com/watch?v=L_j0UuJf6l0",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "049",
+      "slug": "049",
+      "youtubeUrl": "https://www.youtube.com/watch?v=WwiWCpljM6A",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "050",
+      "slug": "050",
+      "youtubeUrl": "https://www.youtube.com/watch?v=qaR0z0xGras",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "051",
+      "slug": "051",
+      "youtubeUrl": "https://www.youtube.com/watch?v=AO3BY54vpzo",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "052",
+      "slug": "052",
+      "youtubeUrl": "https://www.youtube.com/watch?v=D03L19CGbKs",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "053",
+      "slug": "053",
+      "youtubeUrl": "https://www.youtube.com/watch?v=tAlYXC1HkKU",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "054",
+      "slug": "054",
+      "youtubeUrl": "https://www.youtube.com/watch?v=jcQzHCfTS28",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "055",
+      "slug": "055",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pWCjC-YNkM0",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "056",
+      "slug": "056",
+      "youtubeUrl": "https://www.youtube.com/watch?v=KeNKbnbZEos",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "057",
+      "slug": "057",
+      "youtubeUrl": "https://www.youtube.com/watch?v=tLJDP2y-Bhs",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "058",
+      "slug": "058",
+      "youtubeUrl": "https://www.youtube.com/watch?v=zov-So2svjE",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "059",
+      "slug": "059",
+      "youtubeUrl": "https://www.youtube.com/watch?v=OBiWl628GDE",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "060",
+      "slug": "060",
+      "youtubeUrl": "https://www.youtube.com/watch?v=cyFP8-polys",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "061",
+      "slug": "061",
+      "youtubeUrl": "https://www.youtube.com/watch?v=vX-IcbHfwPk",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "062",
+      "slug": "062",
+      "youtubeUrl": "https://www.youtube.com/watch?v=nsNGgXAtlP8",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "063",
+      "slug": "063",
+      "youtubeUrl": "https://www.youtube.com/watch?v=HrPDNtVU3u8",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "064",
+      "slug": "064",
+      "youtubeUrl": "https://www.youtube.com/watch?v=WMWnlAGR4io",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "065",
+      "slug": "065",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Ytef-9BSAuU",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "066",
+      "slug": "066",
+      "youtubeUrl": "https://www.youtube.com/watch?v=50DfXDHKaQ0",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "067",
+      "slug": "067",
+      "youtubeUrl": "https://www.youtube.com/watch?v=zx8ahHvjukI",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "068",
+      "slug": "068",
+      "youtubeUrl": "https://www.youtube.com/watch?v=j_HgRnhjCE8",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "069",
+      "slug": "069",
+      "youtubeUrl": "https://www.youtube.com/watch?v=FHv4hH3ZBks",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "CR #070",
+      "slug": "070",
+      "youtubeUrl": "https://www.youtube.com/watch?v=jTKSmlVOXnY",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "071",
+      "slug": "071",
+      "youtubeUrl": "https://www.youtube.com/watch?v=uhQRrnsK_bg",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "072",
+      "slug": "072",
+      "youtubeUrl": "https://www.youtube.com/watch?v=EWhkQA_kTmg",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "073",
+      "slug": "073",
+      "youtubeUrl": "https://www.youtube.com/watch?v=wK5SzTbCp1s",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "074",
+      "slug": "074",
+      "youtubeUrl": "https://www.youtube.com/watch?v=x3Vd-mcb82A",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "075",
+      "slug": "075",
+      "youtubeUrl": "https://www.youtube.com/watch?v=OapkjG_UAgc",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "076",
+      "slug": "076",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ChBxwnqrcT0",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "077",
+      "slug": "077",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vafwx-9U7tw",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "078",
+      "slug": "078",
+      "youtubeUrl": "https://www.youtube.com/watch?v=zHYrMLkmR74",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "079",
+      "slug": "079",
+      "youtubeUrl": "https://www.youtube.com/watch?v=x3pF5DucVjE",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "080",
+      "slug": "080",
+      "youtubeUrl": "https://www.youtube.com/watch?v=tiMI_KlMixY",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "081",
+      "slug": "081",
+      "youtubeUrl": "https://www.youtube.com/watch?v=L3IVQZrGFuE",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "082",
+      "slug": "082",
+      "youtubeUrl": "https://www.youtube.com/watch?v=wSvM2GitIjQ",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    },
+    {
+      "releaseNumber": "083",
+      "slug": "083",
+      "youtubeUrl": "https://www.youtube.com/watch?v=F_CXw17-2eE",
+      "soundcloudCandidates": [],
+      "status": "not_assessable_without_catalogue",
+      "flags": [
+        "soundcloud_catalogue_not_available"
+      ]
+    }
+  ]
+}

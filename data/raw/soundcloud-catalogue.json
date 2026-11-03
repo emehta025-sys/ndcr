@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "extractor": "scripts/soundcloud_catalogue.py",
+    "extractor_version": "1.0.0",
+    "extracted_at_utc": "2026-10-23T11:29:41.016929+00:00",
+    "source": "SoundCloud official API v2",
+    "target_profile_url": "https://soundcloud.com/new-delhi-community-radio",
+    "extraction_status": "not_run_credentials_missing",
+    "raw_api_values_preserved": true,
+    "official_ndcr_release_time_source": "not_established_by_this_API_export"
+  },
+  "raw_api": {
+    "resolved_user": null,
+    "track_pages": []
+  },
+  "records": [],
+  "analysis": {
+    "track_count": 0,
+    "numbered_release_candidate_count": 0,
+    "ambiguous_track_count": 0,
+    "unclassified_track_count": 0,
+    "detected_release_numbers": [],
+    "duplicate_release_numbers": [],
+    "possible_numbering_gaps_between_detected_endpoints": []
+  }
+}
